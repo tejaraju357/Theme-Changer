@@ -1,0 +1,28 @@
+{
+  "test_case_results": [
+    {
+      "test_case_id": "RJSCPD6VOB_TEST_1",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of HTML main heading element with text content Click To Change Mode",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPD6VOB_TEST_2",
+      "evaluation_result": "CORRECT",
+      "title": "Page should initially consist of HTML button element with text content Light Mode",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPD6VOB_TEST_3",
+      "evaluation_result": "CORRECT",
+      "title": "When the HTML button element with text content Light Mode is clicked, then its text content should change to Dark Mode",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPD6VOB_TEST_4",
+      "evaluation_result": "CORRECT",
+      "title": "When the app is in Light Mode and the HTML button with text content Dark Mode is clicked, then its text content should be changed to Dark Mode",
+      "errorMessages": []
+    }
+  ]
+}

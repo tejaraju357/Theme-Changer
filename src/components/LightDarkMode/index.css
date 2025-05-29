@@ -1,0 +1,31 @@
+.div {
+ display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width:400px;
+  margin:auto;
+  margin-top: 250px;
+  border-radius: 20px;
+  padding:20px;
+  border-color: black;
+  border: 2px solid black;
+}
+
+.div.light {
+  background-color: white;
+  color: black;
+}
+
+.div.dark {
+  background-color: black;
+  color: white;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+}
